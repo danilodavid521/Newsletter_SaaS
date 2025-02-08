@@ -1,5 +1,7 @@
 <div align="center" id="top" className="mb-10">
 <img src="./public/favicon.ico" alt="icon" width="150" height="150" />
+
+##
 - In this project, I was involved in crafting a seamless user experience while ensuring robust server-side functionality. 
 On the front end, I used Next.js for server-side rendering, which enhanced performance and SEO
 - Focused on creating intuitive user interfaces to simplify email template creation.
