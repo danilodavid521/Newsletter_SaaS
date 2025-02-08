@@ -2,11 +2,11 @@
 <img src="./public/favicon.ico" alt="icon" width="150" height="150" />
 
 ##
-- In this project, I was involved in crafting a seamless user experience while ensuring robust server-side functionality. 
+In this project, I was involved in crafting a seamless user experience while ensuring robust server-side functionality. 
 On the front end, I used Next.js for server-side rendering, which enhanced performance and SEO
-- Focused on creating intuitive user interfaces to simplify email template creation.
-- For the back end, I integrated AWS SES for reliable email delivery and AstraDB for scalable data management 
-- Implemented payment processing using Stripe, ensuring secure transactions. 
+Focused on creating intuitive user interfaces to simplify email template creation.
+For the back end, I integrated AWS SES for reliable email delivery and AstraDB for scalable data management 
+Implemented payment processing using Stripe, ensuring secure transactions. 
 
 &#xa0;
 
